@@ -1,7 +1,7 @@
 # Overview of Election Audit: 
   ## Explain the purpose of this election audit analysis.
 
-      The purpose of this analysis is to get data for the election outcomes.
+      The purpose of this analysis is to get data to show the election outcomes.
 
 # Election-Audit Results: 
   ## Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
@@ -34,7 +34,9 @@
   
  # Election-Audit Summary: 
  
-  ## In a summary statement, provide a business proposal to the election commission on how this script can be used with some modifications for any election. 
+  ## In a summary statement, provide a business proposal to the election commission on how this script can be used with some modifications for any election.
+  
+  The script can be used in any election with some modifications. Besides the data we already have, it is important to add the outcome for the number of votes each candidate received from each county and it is also interesting to see the candidates percentage related to each county as shown on the graphs below.
   
   ## Give at least two examples of how this script can be modified to be used for other elections.
   
