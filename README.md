@@ -46,8 +46,10 @@ The analysis of the election shows that:
 - The winner of the election was: 
 
   Candidate Diana DeGette who received 272,892 number of votes.
-  
- ## Challenge Overview
  
- ## Challenge Summary
+ 
+ ## For the first part of the analysis we only have data for the candidates, not for the counties.
+ 
+ 
+
 
